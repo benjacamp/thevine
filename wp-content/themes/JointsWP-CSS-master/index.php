@@ -24,7 +24,7 @@
 				    
 				    <section class="container content-block green-bg white">
 					    <div class="row">
-					    <h3 class="text-center">What is a Service Like at the Vine?</h3>
+					    <h3 class="text-center">What is a Service Like at the Vine Madison?</h3>
 					    
 					    </div>
 					   					    	
